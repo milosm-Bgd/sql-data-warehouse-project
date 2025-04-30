@@ -18,7 +18,8 @@ This project involves:
 ## Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-![data_architecture](https://github.com/user-attachments/assets/ce7aeee1-8790-4909-af75-6fa4bbe8a681)
+![data_architecture](https://github.com/user-attachments/assets/405b8e49-4b14-4138-9522-4d3ca31a8c11)
+
 
 
 ## Project Requirements
