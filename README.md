@@ -58,6 +58,6 @@ This project is licensed under the [MIT Licence](LICENCE) You are free to use, m
 
 ## About Me 
 
-Hi there! I'm Milos. :) I am Data professional and passionate about data enngineering and data analysis. I have made this project which I wanted to share
+Hi there! I'm Milos. :) I am Data professional and passionate about Data Engineering and Data Analysis. I have made this project which I wanted to share
 with you in order to make small community of developers with a goal to share knowledge, experiences & to improve ourselves inside the data domain. Please 
 feel free tp share your comments and opinions. Thanks & let's stay in touch.
