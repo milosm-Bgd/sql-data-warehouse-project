@@ -20,7 +20,9 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ![data_architecture](https://github.com/user-attachments/assets/405b8e49-4b14-4138-9522-4d3ca31a8c11)
 
-
+1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ## Project Requirements
 
@@ -54,3 +56,8 @@ These insights empower stakeholder with key business metrics, enabling strategic
 
 This project is licensed under the [MIT Licence](LICENCE) You are free to use, modify and share this project with proper attribution.
 
+## About Me 
+
+Hi there! I'm Milos. :) I am Data professional and passionate about data enngineering and data analysis. I have made this project which I wanted to share
+with you in order to make small community of developers with a goal to share knowledge, experiences & to improve ourselves inside the data domain. Please 
+feel free tp share your comments and opinions. Thanks & let's stay in touch.
